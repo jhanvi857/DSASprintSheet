@@ -4,10 +4,10 @@ A concise, topic-wise collection of **must-know DSA problems and patterns** for 
 
 ---
 
-## Contents 📂
-- [Arrays & Strings](#-arrays--strings)
-- [Linked List](#-linked-list)
-- [Stacks & Queues](#-stacks--queues)
+## Contents :
+- [Arrays & Strings](https://github.com/jhanvi857/DSASprintSheet/tree/main/ArraysFolder)
+- [Linked List](https://github.com/jhanvi857/DSASprintSheet/tree/main/LinkedListFolder)
+- [Stacks & Queues](https://github.com/jhanvi857/DSASprintSheet/tree/main/Stacks&Queues)
 - [Hashing & Prefix](#-hashing--prefix)
 - [Recursion & Backtracking](#-recursion--backtracking)
 - [Trees](#-trees)
@@ -22,13 +22,20 @@ A concise, topic-wise collection of **must-know DSA problems and patterns** for 
 - Two Sum / Pair Sum  
 - Container With Most Water  
 - Maximum Subarray (Kadane’s Algorithm)  
-- Stock Buy & Sell  
+- Stock Buy & Sell / Best Time to Buy & Sell Stock  
 - Sort Colors (Dutch National Flag)  
 - Product of Array Except Itself  
 - Search in Rotated Sorted Array  
-- Valid Palindrome / String Compression  
-- Reverse Words in a String  
+- Find First and Last Position of Element in Sorted Array  
+- Majority Element / Moore’s Voting Algorithm  
+- Trapping Rain Water  
+- Subarray Sum Equals K  
 - Sliding Window: Longest Substring Without Repeating Characters  
+- Minimum Window Substring  
+- Reverse Words in a String  
+- Valid Palindrome / String Compression  
+- Group Anagrams  
+- Longest Palindromic Substring  
 
 ---
 
@@ -36,7 +43,11 @@ A concise, topic-wise collection of **must-know DSA problems and patterns** for 
 - Reverse Linked List (Iterative + Recursive)  
 - Detect & Remove Cycle (Floyd’s Cycle Detection)  
 - Merge Two Sorted Lists  
+- Add Two Numbers  
 - Middle of Linked List  
+- Remove Nth Node From End  
+- Intersection of Two Linked Lists  
+- Copy List with Random Pointer  
 - LRU Cache Implementation  
 
 ---
@@ -47,6 +58,9 @@ A concise, topic-wise collection of **must-know DSA problems and patterns** for 
 - Next Greater Element  
 - Implement Queue using Stacks  
 - Largest Rectangle in Histogram  
+- Sliding Window Maximum  
+- Evaluate Reverse Polish Notation  
+- Daily Temperatures  
 
 ---
 
@@ -55,14 +69,21 @@ A concise, topic-wise collection of **must-know DSA problems and patterns** for 
 - Longest Subarray with Zero Sum  
 - Prefix Sum / Difference Array  
 - Group Anagrams  
+- Top K Frequent Elements  
+- Two Sum (Hash Map)  
+- Happy Number  
+- Longest Consecutive Sequence  
 
 ---
 
 ## 🔹 Recursion & Backtracking
-- Generate Subsets / Permutations  
-- N-Queens (basic backtracking)  
+- Generate Subsets / Permutations / Combinations  
+- N-Queens  
 - Word Search in Grid  
 - Rat in a Maze / Maze Paths  
+- Sudoku Solver  
+- Palindrome Partitioning  
+- Restore IP Addresses  
 
 ---
 
@@ -72,6 +93,10 @@ A concise, topic-wise collection of **must-know DSA problems and patterns** for 
 - Lowest Common Ancestor (LCA)  
 - Maximum Depth / Balanced Binary Tree  
 - Serialize & Deserialize Binary Tree  
+- Symmetric / Mirror Tree  
+- Path Sum / Root-to-Leaf Sum  
+- Construct Binary Tree from Preorder + Inorder  
+- Binary Tree Maximum Path Sum  
 
 ---
 
@@ -80,20 +105,31 @@ A concise, topic-wise collection of **must-know DSA problems and patterns** for 
 - Detect Cycle in Graph (Directed + Undirected)  
 - Connected Components in Graph  
 - Dijkstra’s Algorithm (Shortest Path)  
+- Bellman-Ford Algorithm  
+- Floyd-Warshall Algorithm  
 - Topological Sort  
 - Bipartite Graph Check  
+- Minimum Spanning Tree (Prim’s / Kruskal’s)  
+- Number of Islands  
+- Word Ladder  
 
 ---
 
 ## 🔹 Dynamic Programming
 - Climb Stairs / Min Cost Climbing Stairs  
-- Coin Change (Min Coins / No. of Ways)  
+- Coin Change (Min Coins / Number of Ways)  
 - Longest Increasing Subsequence (LIS)  
 - Longest Common Subsequence (LCS)  
 - Edit Distance  
 - Partition Equal Subset Sum  
 - 0/1 Knapsack  
-- Unique Paths / Min Path Sum in Grid  
+- Unbounded Knapsack  
+- Unique Paths / Minimum Path Sum in Grid  
+- Matrix Chain Multiplication  
+- House Robber / House Robber II  
+- Decode Ways  
+- Maximum Sum Rectangle in 2D Matrix  
+- DP on Trees  
 
 ---
 
@@ -103,26 +139,33 @@ A concise, topic-wise collection of **must-know DSA problems and patterns** for 
 - Merge K Sorted Lists  
 - Top K Frequent Elements  
 - Minimum Spanning Tree (Prim’s / Kruskal’s basics)  
+- Jump Game  
+- Gas Station Problem  
+- Fractional Knapsack  
 
 ---
 
 ## 🔹 Miscellaneous
-- Binary Search Patterns  
-- Bit Manipulation: Single Number, Power of Two  
-- Matrix Problems (Rotate Matrix, Search in 2D Matrix)  
+- Binary Search Patterns (Search in Rotated Array, Peak Element)  
+- Bit Manipulation: Single Number, Power of Two, Subsets using Bitmasking  
+- Matrix Problems (Rotate Matrix, Search in 2D Matrix, Spiral Order)  
 - Implement Trie (Prefix Tree)  
+- Union Find / Disjoint Set (Cycle Detection, Kruskal MST)  
+- Sliding Window & Two Pointers Patterns  
+- Game Theory / DP Optimization  
+- Advanced Graphs: Network Flow, Strongly Connected Components, Tarjan’s Algorithm  
 
 ---
 
-##  Usage
+## Usage
 - Use this repo for **daily quick revision**.  
 - Code snippets for each pattern should be added in corresponding topic folders.  
-- Covers ~60 high-frequency problems that appear in **internship & placement interviews**.  
+- Covers **all essential problems for interviews and competitive programming**.  
 
 ---
 
-##  Contribution
+## Contribution
 Feel free to fork and add your own notes or solutions!  
-Let’s build a **high-quality revision hub for DSA prep**.  
+Let’s build a **high-quality DSA revision hub** together.  
 
 ---
