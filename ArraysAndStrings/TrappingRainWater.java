@@ -13,7 +13,7 @@
 // n == height.length
 // 1 <= n <= 2 * 104
 // 0 <= height[i] <= 105
-package ArraysFolder;
+package ArraysAndStrings;
 public class TrappingRainWater {
     public int trap(int[] height) {
         int n = height.length;

@@ -5,7 +5,7 @@
 // Return the maximum amount of water a container can store.
 
 // Notice that you may not slant the container.
-package ArraysFolder;
+package ArraysAndStrings;
 
 public class MostWater {
     public int containerWithMostWater(int[] height) {

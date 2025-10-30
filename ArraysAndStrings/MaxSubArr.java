@@ -20,7 +20,7 @@
 
 // 1 <= nums.length <= 105
 // -104 <= nums[i] <= 104
-package ArraysFolder;
+package ArraysAndStrings;
 public class MaxSubArr {
     public int subArraySum(int nums[]) {
         int ans = Integer.MIN_VALUE; // for negative subarr sum..

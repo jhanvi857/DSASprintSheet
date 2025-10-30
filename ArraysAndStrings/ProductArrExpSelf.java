@@ -1,4 +1,4 @@
-package ArraysFolder;
+package ArraysAndStrings;
 
 public class ProductArrExpSelf {
     public int[] productOfArrExpSelf(int nums[]) {

@@ -28,7 +28,7 @@
 // -109 <= target <= 109
 // Only one valid answer exists.
 
-package ArraysFolder;
+package ArraysAndStrings;
 import java.util.HashMap;
 public class TwoSum {
     public int[] twoSum(int nums[],int target) {

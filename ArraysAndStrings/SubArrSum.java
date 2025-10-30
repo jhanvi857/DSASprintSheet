@@ -9,7 +9,7 @@
 // Input: nums = [1,2,3], k = 3
 // Output: 2
 
-package ArraysFolder;
+package ArraysAndStrings;
 
 import java.util.HashMap;
 

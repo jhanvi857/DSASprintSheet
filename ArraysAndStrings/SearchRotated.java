@@ -21,7 +21,7 @@
 // All values of nums are unique.
 // nums is an ascending array that is possibly rotated.
 // -104 <= target <= 104
-package ArraysFolder;
+package ArraysAndStrings;
 
 public class SearchRotated {
     public int searchInRotatedSortedArr(int nums[],int target) {

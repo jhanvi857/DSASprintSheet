@@ -1,4 +1,4 @@
-package ArraysFolder;
+package ArraysAndStrings;
 //  Here, 0 to low-1 =  0
 //        low to high-1 = 1
 //        high to n-1 = 2.

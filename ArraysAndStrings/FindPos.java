@@ -18,7 +18,7 @@
 // -109 <= nums[i] <= 109
 // nums is a non-decreasing array.
 // -109 <= target <= 109
-package ArraysFolder;
+package ArraysAndStrings;
 public class FindPos {
     // Sorted arr = binary search..
     public int[] findFirstAndLastPos(int nums[],int tar) {
